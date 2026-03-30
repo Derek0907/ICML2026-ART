@@ -1,4 +1,4 @@
-<h1 align="center">Fig. 1. Real-world robotic platform setup.</h2>
+<h1 align="center">Fig. 1. Real-world robotic platform setup</h1>
 
 <p align="center">
   <a href="./experiment_env.pdf">
@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<h1 align="center">Fig. 2. Full real-world evaluation pipeline.</h2>
+<h1 align="center">Fig. 2. Full real-world evaluation pipeline</h1>
 
 <p align="center">
   <a href="./full_pipeline.pdf">
@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<h1 align="center">Fig. 3. Updated method overview.</h2>
+<h1 align="center">Fig. 3. Updated method overview</h1>
 
 <p align="center">
   <a href="./method_updated.pdf">
