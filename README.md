@@ -1,18 +1,8 @@
-# ICML2026-ART
+[Fig. 1. Updated method overview.](./method_updated.pdf)
+![Fig. 1. Updated method overview.](./method_updated.png)
 
-## Included Materials
+[Fig. 2. Full real-world evaluation pipeline.](./full_pipeline.pdf)
+![Fig. 2. Full real-world evaluation pipeline.](./full_pipeline.png)
 
-- **`method_updated.pdf`**  
-  Updated method overview with clearer correspondence between the architecture and the notation used in the paper.
-
-- **`full_pipeline.pdf`**  
-  Real-world qualitative examples showing:
-  - multi-view RGB-D observation,
-  - human prior on object,
-  - transferred affordance,
-  - sampled manipulation points,
-  - final real-world execution.
-
-- **`experiment_env.pdf`**  
-  Physical experimental setup used in the real-world exam.
-
+[Fig. 3. Real-world robotic platform setup.](./experiment_env.pdf)
+![Fig. 3. Real-world robotic platform setup.](./experiment_env.png)
