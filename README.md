@@ -1,7 +1,7 @@
-# [Fig. 1. Human Prior Affordance Annotation UI](./Human Prior Affordance Annotation UI.jpg)
+# [Fig. 1. Human Prior Affordance Annotation UI]
 ![Fig. 1. Human Prior Affordance Annotation UI](./Human Prior Affordance Annotation UI.jpg)
 
-# [Fig. 2. Robot Affordance Annotation UI](./Robot Affordance Annotation UI.jpg)
+# [Fig. 2. Robot Affordance Annotation UI]
 ![Fig. 2. Robot Affordance Annotation UI](./Robot Affordance Annotation UI.jpg)
 
 # [Fig. 3. Real-world robotic platform setup](./experiment_env.pdf)
